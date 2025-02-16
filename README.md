@@ -4,5 +4,5 @@
 ->Form   
 ->Game  
 *Home Page,Login Page,Registration Page and Contact Page.     
-->Registration
+->Registration      
 *Its a Student Registration Page
