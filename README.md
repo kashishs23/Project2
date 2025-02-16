@@ -1,5 +1,6 @@
 # Project2
 ->Amazon    
 ->Form   
-->Game   
+->Game  
+*Home Page,Login Page,Registration Page and Contact Page.
 ->Registration
